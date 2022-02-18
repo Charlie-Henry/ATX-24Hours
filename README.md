@@ -3,7 +3,8 @@ Gifs made of screenshots from Austin's public CCTV cameras.
 
 ## Environment
 
-`requirements.txt`
+`conda create --name cctv_images --file requirements.txt`
+
 Also uses https://github.com/shawnrivers/gif-compressor for gif compression.
 
 Secrets
